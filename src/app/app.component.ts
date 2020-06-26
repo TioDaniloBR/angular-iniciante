@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'olaMundo';
+
+  nome: string = 'Danilo'
+  teste: string = 'Teste de nova variável'
 }
